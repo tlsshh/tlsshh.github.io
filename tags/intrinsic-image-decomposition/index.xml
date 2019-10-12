@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intrinsic image decomposition | Jundan Luo</title>
+    <link>tlsshh.github.io/tags/intrinsic-image-decomposition/</link>
+      <atom:link href="tlsshh.github.io/tags/intrinsic-image-decomposition/index.xml" rel="self" type="application/rss+xml" />
+    <description>intrinsic image decomposition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 11:23:53 +0800</lastBuildDate>
+    <image>
+      <url>tlsshh.github.io/img/icon-192.png</url>
+      <title>intrinsic image decomposition</title>
+      <link>tlsshh.github.io/tags/intrinsic-image-decomposition/</link>
+    </image>
+    
+    <item>
+      <title>Inductive transfer learning from surface normal estimation for intrinsic image decomposition</title>
+      <link>tlsshh.github.io/publication/intrinsic-image-decomposition/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/publication/intrinsic-image-decomposition/</guid>
+      <description>
+
+&lt;h5 id=&#34;our-goal-is-to-resolve-two-main-problems-in-shading-estimation&#34;&gt;Our goal is to resolve two main problems in shading estimation:&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Distinguishing shading from reflectance -&amp;gt; inductive biases from surface normal estimation&lt;/li&gt;
+&lt;li&gt;Lack of training data -&amp;gt; inductive transfer learning&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

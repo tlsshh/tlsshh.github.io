@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Jundan Luo</title>
+    <link>tlsshh.github.io/tags/</link>
+      <atom:link href="tlsshh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 11:23:53 +0800</lastBuildDate>
+    <image>
+      <url>tlsshh.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>tlsshh.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>3D plane reconstruction</title>
+      <link>tlsshh.github.io/tags/3d-plane-reconstruction/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/tags/3d-plane-reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AR</title>
+      <link>tlsshh.github.io/tags/ar/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/tags/ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer vision</title>
+      <link>tlsshh.github.io/tags/computer-vision/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intrinsic image decomposition</title>
+      <link>tlsshh.github.io/tags/intrinsic-image-decomposition/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/tags/intrinsic-image-decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shading estimation</title>
+      <link>tlsshh.github.io/tags/shading-estimation/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/tags/shading-estimation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

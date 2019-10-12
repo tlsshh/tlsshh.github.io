@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer vision | Jundan Luo</title>
+    <link>tlsshh.github.io/tags/computer-vision/</link>
+      <atom:link href="tlsshh.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>computer vision</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 11:23:53 +0800</lastBuildDate>
+    <image>
+      <url>tlsshh.github.io/img/icon-192.png</url>
+      <title>computer vision</title>
+      <link>tlsshh.github.io/tags/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Inductive transfer learning from surface normal estimation for intrinsic image decomposition</title>
+      <link>tlsshh.github.io/publication/intrinsic-image-decomposition/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/publication/intrinsic-image-decomposition/</guid>
+      <description>
+
+&lt;h5 id=&#34;our-goal-is-to-resolve-two-main-problems-in-shading-estimation&#34;&gt;Our goal is to resolve two main problems in shading estimation:&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Distinguishing shading from reflectance -&amp;gt; inductive biases from surface normal estimation&lt;/li&gt;
+&lt;li&gt;Lack of training data -&amp;gt; inductive transfer learning&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jumping Rabbits! -- an AR shooting game taken place on real-world planes</title>
+      <link>tlsshh.github.io/publication/ar-game-demo/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/publication/ar-game-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Multi-Plane 3D Reconstruction in Indoor Scenes on Mobile Platform</title>
+      <link>tlsshh.github.io/publication/plane-3d-reconstruction/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/publication/plane-3d-reconstruction/</guid>
+      <description>
+
+&lt;h5 id=&#34;there-are-two-main-problems&#34;&gt;There are two main problems:&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Noisy and semi-dense 3D point clouds.&lt;/li&gt;
+&lt;li&gt;Real-time speed requirement.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

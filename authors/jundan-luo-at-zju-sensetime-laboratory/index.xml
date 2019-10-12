@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jundan Luo at ZJU &amp; SenseTime Laboratory | Jundan Luo</title>
+    <link>tlsshh.github.io/authors/jundan-luo-at-zju-sensetime-laboratory/</link>
+      <atom:link href="tlsshh.github.io/authors/jundan-luo-at-zju-sensetime-laboratory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jundan Luo at ZJU &amp; SenseTime Laboratory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 11:23:53 +0800</lastBuildDate>
+    <image>
+      <url>tlsshh.github.io/img/icon-192.png</url>
+      <title>Jundan Luo at ZJU &amp; SenseTime Laboratory</title>
+      <link>tlsshh.github.io/authors/jundan-luo-at-zju-sensetime-laboratory/</link>
+    </image>
+    
+    <item>
+      <title>Real-time Multi-Plane 3D Reconstruction in Indoor Scenes on Mobile Platform</title>
+      <link>tlsshh.github.io/publication/plane-3d-reconstruction/</link>
+      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/publication/plane-3d-reconstruction/</guid>
+      <description>
+
+&lt;h5 id=&#34;there-are-two-main-problems&#34;&gt;There are two main problems:&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Noisy and semi-dense 3D point clouds.&lt;/li&gt;
+&lt;li&gt;Real-time speed requirement.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
