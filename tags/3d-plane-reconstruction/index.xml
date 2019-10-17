@@ -5,7 +5,7 @@
     <link>tlsshh.github.io/tags/3d-plane-reconstruction/</link>
       <atom:link href="tlsshh.github.io/tags/3d-plane-reconstruction/index.xml" rel="self" type="application/rss+xml" />
     <description>3D plane reconstruction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 11:23:53 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 11:23:53 +0800</lastBuildDate>
     <image>
       <url>tlsshh.github.io/img/icon-192.png</url>
       <title>3D plane reconstruction</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Jumping Rabbits! -- an AR shooting game taken place on real-world planes</title>
-      <link>tlsshh.github.io/publication/ar-game-demo/</link>
-      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
-      <guid>tlsshh.github.io/publication/ar-game-demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Real-time Multi-Plane 3D Reconstruction in Indoor Scenes on Mobile Platform</title>
       <link>tlsshh.github.io/publication/plane-3d-reconstruction/</link>
-      <pubDate>Thu, 10 Oct 2019 11:23:53 +0800</pubDate>
+      <pubDate>Thu, 01 Feb 2018 11:23:53 +0800</pubDate>
       <guid>tlsshh.github.io/publication/plane-3d-reconstruction/</guid>
       <description>
 
@@ -34,6 +26,14 @@
 &lt;li&gt;Real-time speed requirement.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jumping Rabbits! -- an AR shooting game taken place on real-world planes</title>
+      <link>tlsshh.github.io/publication/ar-game-demo/</link>
+      <pubDate>Thu, 01 Jun 2017 11:23:53 +0800</pubDate>
+      <guid>tlsshh.github.io/publication/ar-game-demo/</guid>
+      <description></description>
     </item>
     
   </channel>
