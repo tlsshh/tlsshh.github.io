@@ -19,11 +19,11 @@
       <guid>tlsshh.github.io/publication/intrinsic-image-decomposition/</guid>
       <description>
 
-&lt;h5 id=&#34;our-goal-is-to-resolve-two-main-problems-in-shading-estimation&#34;&gt;Our goal is to resolve two main problems in shading estimation:&lt;/h5&gt;
+&lt;h5 id=&#34;our-goal-was-to-resolve-two-main-problems-in-shading-estimation&#34;&gt;Our goal was to resolve two main problems in shading estimation:&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Distinguishing shading from reflectance -&amp;gt; inductive biases from surface normal estimation&lt;/li&gt;
-&lt;li&gt;Lack of training data -&amp;gt; inductive transfer learning&lt;/li&gt;
+&lt;li&gt;Distinguishing shading from reflectance&lt;/li&gt;
+&lt;li&gt;Lack of training data&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -35,7 +35,7 @@
       <guid>tlsshh.github.io/publication/plane-3d-reconstruction/</guid>
       <description>
 
-&lt;h5 id=&#34;there-are-two-main-problems&#34;&gt;There are two main problems:&lt;/h5&gt;
+&lt;h5 id=&#34;there-are-two-main-difficulties&#34;&gt;There are two main difficulties:&lt;/h5&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Noisy and semi-dense 3D point clouds.&lt;/li&gt;
@@ -45,7 +45,7 @@
     </item>
     
     <item>
-      <title>Jumping Rabbits! -- an AR shooting game taken place on real-world planes</title>
+      <title>Jumping Rabbits! -- an AR shooting game took place on real-world planes</title>
       <link>tlsshh.github.io/publication/ar-game-demo/</link>
       <pubDate>Thu, 01 Jun 2017 11:23:53 +0800</pubDate>
       <guid>tlsshh.github.io/publication/ar-game-demo/</guid>
